@@ -169,5 +169,5 @@ For detailed implementation guidelines and support, please refer to the individu
 
 ---
 
-*Made with 💻 by ML Trading Team*
+*Made with 💻 by CryptoPlaza*
 
